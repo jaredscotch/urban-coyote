@@ -1,0 +1,14 @@
+.banner {
+    color: burlywood;
+    text-align: center;
+    background-color: firebrick;
+}
+#coyoteimg {
+    height: 300px;
+    width: 500px;
+    align-items: center;
+}
+
+body {
+    text-align: center;
+}
